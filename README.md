@@ -1,2 +1,2 @@
-# Flood_FYP
-this is flood management project for my FYP
+# OneCare
+This is Charity Management System
