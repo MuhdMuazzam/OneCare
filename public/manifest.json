@@ -1,0 +1,18 @@
+
+{
+  "name": "OneCare Charity System",
+  "short_name": "FixaFlood",  
+  "start_url": "/",
+  "background_color": "#6777ef",
+  "description": "OneCare Charity System",
+  "display": "standalone",
+  "theme_color": "#6777ef",
+  "icons": [
+      {
+          "src": "logo_fixaflood.png",
+          "sizes": "512x512",
+          "type": "image/png",
+          "purpose": "any maskable"
+      }
+  ]
+}
